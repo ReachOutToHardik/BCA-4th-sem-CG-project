@@ -1,4 +1,4 @@
-# 📂 Auto-Organizer: OS Project
+# 📂 Interactive Computer Graphics Simulator: CG Project
 
 * **Name:** Vaidehi Dave, Hardik Joshi, Shaheen Khan, Swapna Mondal
 * **Roll Number:** 243501062
